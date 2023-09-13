@@ -1,10 +1,20 @@
-- 👋 Hi, I’m @manowari
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hello, let's build a build a  blog !!!  :-)
 
-<!---
-manowari/manowari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+# Install Angular CLI globally on your PC
+npm install -g @angular/cli
+
+# Install Scully and its dependencies
+npm install --save @scullyio/init @scullyio/ng-lib
+
+# Install Scully Contentful Plugin (if needed, but recommended)
+npm install --save @scullyio/ng-lib @scullyio/plugins-contentful
+
+# Install Scully Netlify Plugin (if deploying to Netlify)
+npm install --save @scullyio/ng-lib @scullyio/plugins-netlify
+
+# Install Scully Redirect Plugin (if needed,, but recommended)
+npm install --save @scullyio/ng-lib @scullyio/plugins-redirect
+
+# Install Scully Image Optimization Plugin (if needed, but recommended)
+npm install --save @scullyio/ng-lib @scullyio/plugins-image
