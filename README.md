@@ -1,4 +1,4 @@
-Hello there fellow traveller. I'm a Full Stack Web Developer and a specialist in Data Analysis by trade. These are my tech stack of choice:-
+Hello there fellow traveller. I'm a Full Stack Web Developer and a specialist in Data Analysis. These are my tech stack of choice:-
 
 - Frontend - Angular and Vue Frameworks
 - Backend -Spring Boot and Django Frameworks
